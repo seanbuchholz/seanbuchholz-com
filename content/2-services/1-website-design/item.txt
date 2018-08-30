@@ -1,0 +1,17 @@
+Title: Website Design
+
+----
+
+Category: webdesign
+
+----
+
+Description: Development of a custom website, including easy-to-use Kirby content management system. Per-page pricing refers to cost per page design—if multiple pages use the same template, you only pay for one!
+
+----
+
+Price: 350
+
+----
+
+Priceper: page

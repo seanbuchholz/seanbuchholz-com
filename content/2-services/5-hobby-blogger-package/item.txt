@@ -1,0 +1,17 @@
+Title: Hobby Blogger Package
+
+----
+
+Category: package
+
+----
+
+Description: Includes Home and About page designs plus a Blog. Save $150.
+
+----
+
+Price: 900
+
+----
+
+Priceper: 

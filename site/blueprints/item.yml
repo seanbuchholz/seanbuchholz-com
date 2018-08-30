@@ -1,0 +1,39 @@
+title: Item
+
+pages: false
+
+icon: tasks
+
+preview: parent
+
+fields:
+  title:
+    label: Item Name
+    type: title
+    width: 1/2
+
+  category:
+    label: Category
+    type: select
+    options:
+      package: Package
+      branding: Branding
+      webdesign: Website Design & Add-Ons
+      services: Services
+    width: 1/2
+
+  description:
+    label: Description
+    type: textarea
+    required: true
+
+  price:
+    label: Item Price
+    type: number
+    required: true
+    width: 1/2
+
+  priceper:
+    label: Price Per
+    type: text
+    width: 1/2

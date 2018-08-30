@@ -1,0 +1,26 @@
+title: Services
+
+icon: usd
+
+pages:
+  template: item
+
+files: false
+
+options:
+  template: false
+  status: false
+
+fields:
+  title:
+    label: Title
+    type: title
+
+  metadata:
+    extends: metadata
+  opengraph:
+    extends: opengraph
+
+  intro:
+    label: Intro
+    type: textarea

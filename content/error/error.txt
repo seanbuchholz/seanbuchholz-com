@@ -1,0 +1,9 @@
+Title: Error
+
+----
+
+Intro: Huh, that's weird.
+
+----
+
+Text: This is really embarrassing, but, uh, I can't find what you're after. Maybe you should (link: / text: head back) and try something else?

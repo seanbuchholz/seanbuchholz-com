@@ -1,0 +1,19 @@
+title: Site
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  author:
+    label: Author
+    type:  text
+
+  metadata:
+    extends: metadata
+  opengraph:
+    extends: opengraph
+
+  copyright:
+    label: Copyright
+    type:  textarea

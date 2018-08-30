@@ -1,0 +1,17 @@
+Title: Premium Hosting
+
+----
+
+Category: services
+
+----
+
+Description: Web hosting plus free content updates and maintenance as needed.
+
+----
+
+Price: 39
+
+----
+
+Priceper: month

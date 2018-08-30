@@ -1,0 +1,17 @@
+/* TEAM */
+
+  Design & Development: Sean Buchholz
+  Contact:
+    Email: hi@seanbuchholz.com
+    Twitter: @seanmbuchholz
+    Mastodon: @obisean@webdev.network
+  Location: Laurel, Maryland
+
+
+/* SITE */
+
+  Last update: 2018/08/17
+  Doctype: HTML5
+  IDE: Atom (https://atom.io)
+  CMS: Kirby (https://getkirby.com)
+  Plugins: Kirby SEO & Open Graph Plugin (https://github.com/l4ci/kirby-seo-og-plugin)

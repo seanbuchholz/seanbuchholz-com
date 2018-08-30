@@ -1,0 +1,17 @@
+Title: Basic Hosting
+
+----
+
+Category: services
+
+----
+
+Description: Great for websites with content that only changes once or twice per year.
+
+----
+
+Price: 19
+
+----
+
+Priceper: month

@@ -1,0 +1,19 @@
+title: Page
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  metadata:
+    extends: metadata
+  opengraph:
+    extends: opengraph
+
+  intro:
+    label: Intro
+    type: text
+
+  text:
+    label: Text
+    type:  textarea

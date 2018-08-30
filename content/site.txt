@@ -1,0 +1,29 @@
+Title: SBWD
+
+----
+
+Author: Sean Buchholz
+
+----
+
+Description: Responsive website design services, graphic design, and logo design in Laurel, MD.
+
+----
+
+Copyright: © 2016–(date: Year) SMB Studios LLC. All Rights Reserved.
+
+----
+
+Og-title: Custom, Hand-Crafted Web and Graphic Design Services
+
+----
+
+Og-site-name: Sean Buchholz Web Design
+
+----
+
+Og-description: Responsive website design services, graphic design, and logo design in Laurel, MD.
+
+----
+
+Og-image: logo.svg

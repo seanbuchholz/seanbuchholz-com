@@ -1,0 +1,17 @@
+Title: Small Business Package
+
+----
+
+Category: package
+
+----
+
+Description: Includes Home and About page designs plus a Contact page with a fully customized email form. Save $200, or add a blog for just $250 and save another $100!
+
+----
+
+Price: 1000
+
+----
+
+Priceper: 

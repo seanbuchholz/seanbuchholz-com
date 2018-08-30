@@ -1,0 +1,9 @@
+Title: Thank You!
+
+----
+
+Intro: Thanks for your email!
+
+----
+
+Text: I'll get back to you right away. In the meantime, why not get caught up on my (link: /blog text: blog)?

@@ -1,0 +1,34 @@
+title: About
+
+pages:
+  template: false
+
+icon: address-card-o
+
+files: true
+
+options:
+  template: false
+  status: false
+
+fields:
+  title:
+    label: Title
+    type: title
+
+  name:
+    label: Page Name
+    type: text
+
+  metadata:
+    extends: metadata
+  opengraph:
+    extends: opengraph
+
+  intro:
+    label: Intro
+    type: text
+
+  text:
+    label: Text
+    type: textarea

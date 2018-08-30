@@ -1,0 +1,95 @@
+Title: Should You Hire A Web Designer? 3 Reasons NOT To DIY
+
+----
+
+Coverimage: 2018-08-04-cover.jpg
+
+----
+
+Date: 2018-08-06
+
+----
+
+Metasettings: 
+
+----
+
+Metatitle: Should You Hire A Web Designer? 3 Reasons NOT To DIY
+
+----
+
+Metaindex: true
+
+----
+
+Metafollow: true
+
+----
+
+Metadescription: What's the better value—hiring a web designer or doing it yourself? Let's look at what DIY really means for your website.
+
+----
+
+Ogsettings: 
+
+----
+
+Ogtitle: Should You Hire A Web Designer? 3 Reasons NOT To DIY
+
+----
+
+Ogimage: 3-reasons-og.jpg
+
+----
+
+Ogdescription: What's the better value—hiring a web designer or doing it yourself? Let's look at what DIY really means for your website.
+
+----
+
+Text: 
+
+Over the last couple years, there's been a lot of push for creators and small business owners to build their own websites, using platforms like WordPress, Squarespace, and other website builders. Even SiteGround, where this website is hosted, has a built-in website creation tool. To be fair, some of the website templates available on these platforms are absolutely beautiful, and it can be easy to put together an attractive website without a ton of effort. 
+
+What's the value, then, of hiring a designer? 
+
+Let's take a closer look at these website builders and see if we can't figure it out.
+
+## Website Templates—Unique (Like Everyone Else)
+
+Using an off-the-shelf template for your website can seem like a great idea if you're pressed for time and need your site up *now*. The reality, though, is that there are only so many templates. You can pick any one of them and publish a website that looks like it just rolled off the assembly line ((link: http://adventurega.me/bootstrap/ text: designer Jeremy Karbowski jokes about this phenomenon)). 
+(image: template-factory.png caption: Assembly-line Website Templates)
+If putting up a website within an extremely short deadline is your *only* goal, then maybe a template is a viable option for you. Chances are, though, you want something that also reflects your values as a stakeholder in whatever venture you're publicizing on the internet. Unless one of your core values is blending in, you're going to want something a little more tailored to fit.
+
+Premium templates are an option for some platforms, and paying money for one of these makes it a little less likely that you'll have a template that's already in use on thousands of other sites. That's not an exaggeration, by the way—WordPress currently dominates around 27% of the websites on the internet. How many of those sites do you think are running the exact same template?
+
+## Customizing Takes Time
+
+"But Sean," you might say, "all those templates can be customized!" And you'd be right—these template website builders can all be customized to varying degrees. Some let you change basic things like colors, images, and fonts, while others let you make huge significant changes to the layout of items on the screen.
+
+How much time are you willing to invest in putting together a website that doesn't look like every other site on the internet? If you aren't a designer, you might not have an eye for what works and what doesn't. Even if you *are* a designer, you could spend hours tweaking and changing blocks of content on your page. Wouldn't that time be better spent *creating* the content that you're trying to publish? Think of it this way:
+
+**If you're a photographer, would you rather spend time behind your camera, or behind your desk?**
+
+Feel free to replace "photographer" and "camera" with whatever makes sense for you. Maybe you're a guitarist in a funky Afro-fusion band. Maybe you knit beanies or hand-craft all-natural soaps and cosmetics. Wouldn't you rather spend your time doing the thing you love?
+
+## Maintainability and Dependency on Third Parties
+
+Many of these platforms offer third-party plugins to extend the functionality of your website—adding things like social media tools and other options. All these options can be super-convenient, but they are usually developed and maintained by someone other than the host or platform you're using. If a plugin that you depend on to display content to your visitors suddenly becomes unsopported, or the developer is no longer willing or able to continue working on that application, part of your website might break. 
+
+Sometimes, the platform might upgrade to a new version. Usually, major version updates come with major code changes, which could also break or diminish the functionality of your plugins. You may visit your website one day and notice your Instagram feed isn't showing up like it did yesterday. Unfortunately, there's not a lot you can do to fix it without investing *even more* of your time.
+
+Many of the website builders out there are "visual editors" which allow you to drag and drop your content onto the page to design your layout. These are extremely easy to use, but result in website code that is messy, unorganized, and even potentially inaccessible to users with disabilities. These issues may not bother you, but if you ever want to migrate your website to a different hosting service, you're going to be responsible for taking all that code with you—or starting from scratch!
+
+## So... Is DIY Worth It?
+
+No.
+
+Maybe I should elaborate.
+
+There's no doubt that Squarespace, WordPress, and other website builders are a great option for some folks. If you have the time, money, and inclination, you can create some really genuinely good-looking websites. It's tough to start from a template and wind up with something truly unique, though, without making a *significant* investment. 
+
+(image: 23.jpg caption: Is this really how you want to spend your time?)
+
+At the end of the day, if you aren't a designer by trade or hobby, you're going to have a much better experience (link: #contact text: hiring someone who does this professionally). You get a website that's custom-designed for *you*—not a template that's already being used on a thousand other websites. You get all the flexibility and freedom to update the content on your website when and if you want—or not—without worrying if some critical service you depend on is going to disappear overnight. Best of all, **you get to spend more time doing what you love, and less time fiddling with your website**. 
+
+Hiring a professional web designer is the best decision you can make if you're serious about putting your best self online. Don't compromise on *your passions* by trying to wear yet another hat. Give yourself (and your web visitors!) the experience you deserve.
